@@ -1,0 +1,10 @@
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\bin\Debug\WinformCalculate.exe.config
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\bin\Debug\WinformCalculate.exe
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\bin\Debug\WinformCalculate.pdb
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\obj\Debug\WinformCalculate.csprojAssemblyReference.cache
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\obj\Debug\WinformCalculate.计算器.resources
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\obj\Debug\WinformCalculate.Properties.Resources.resources
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\obj\Debug\WinformCalculate.csproj.GenerateResource.cache
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\obj\Debug\WinformCalculate.csproj.CoreCompileInputs.cache
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\obj\Debug\WinformCalculate.exe
+C:\Users\卓晗\source\repos\WinformCalculate\WinformCalculate\obj\Debug\WinformCalculate.pdb
