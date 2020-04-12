@@ -1,0 +1,15 @@
+C:\Users\卓晗\source\repos\OrderService\OrderService\bin\Debug\OrderService.exe.config
+C:\Users\卓晗\source\repos\OrderService\OrderService\bin\Debug\OrderService.exe
+C:\Users\卓晗\source\repos\OrderService\OrderService\bin\Debug\OrderService.pdb
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\OrderService.csprojAssemblyReference.cache
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\OrderService.Properties.Resources.resources
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\OrderService.csproj.GenerateResource.cache
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\OrderService.csproj.CopyComplete
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\OrderService.exe
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\OrderService.pdb
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\Order_Service.Form1.resources
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\Order_Service.ModifyOrder.resources
+C:\Users\卓晗\source\repos\OrderService\OrderService\obj\Debug\Order_Service.OrderForm.resources
+C:\Users\卓晗\source\repos\OrderService\OrderService\bin\Debug\ClassLibrary1.dll
+C:\Users\卓晗\source\repos\OrderService\OrderService\bin\Debug\ClassLibrary1.pdb

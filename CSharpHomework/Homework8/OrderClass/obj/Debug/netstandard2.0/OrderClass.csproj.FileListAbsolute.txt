@@ -1,0 +1,9 @@
+C:\Users\卓晗\source\repos\OrderService\OrderClass\bin\Debug\netstandard2.0\OrderClass.deps.json
+C:\Users\卓晗\source\repos\OrderService\OrderClass\bin\Debug\netstandard2.0\OrderClass.dll
+C:\Users\卓晗\source\repos\OrderService\OrderClass\bin\Debug\netstandard2.0\OrderClass.pdb
+C:\Users\卓晗\source\repos\OrderService\OrderClass\obj\Debug\netstandard2.0\OrderClass.csprojAssemblyReference.cache
+C:\Users\卓晗\source\repos\OrderService\OrderClass\obj\Debug\netstandard2.0\OrderClass.csproj.CoreCompileInputs.cache
+C:\Users\卓晗\source\repos\OrderService\OrderClass\obj\Debug\netstandard2.0\OrderClass.AssemblyInfoInputs.cache
+C:\Users\卓晗\source\repos\OrderService\OrderClass\obj\Debug\netstandard2.0\OrderClass.AssemblyInfo.cs
+C:\Users\卓晗\source\repos\OrderService\OrderClass\obj\Debug\netstandard2.0\OrderClass.dll
+C:\Users\卓晗\source\repos\OrderService\OrderClass\obj\Debug\netstandard2.0\OrderClass.pdb
